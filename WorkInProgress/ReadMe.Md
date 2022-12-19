@@ -17,7 +17,8 @@
 - CONTEÚDOS
 - INFORMAÇÕES
 
-[Criar Uma Página Web Utilizando as Tags Aprendidas](https://web.dio.me/lab/criar-uma-pagina-web-utilizando-as-tags-aprendidas/learning/e2c3c07c-6b90-413b-ac5b-ae49a61aed9a)[Entendendo o Desafio](https://web.dio.me/lab/criar-uma-pagina-web-utilizando-as-tags-aprendidas/learning/fc56c26e-95a4-419d-a5bf-48826e676952)
+- [Criar Uma Página Web Utilizando as Tags Aprendidas](https://web.dio.me/lab/criar-uma-pagina-web-utilizando-as-tags-aprendidas/learning/e2c3c07c-6b90-413b-ac5b-ae49a61aed9a)
+- [Entendendo o Desafio](https://web.dio.me/lab/criar-uma-pagina-web-utilizando-as-tags-aprendidas/learning/fc56c26e-95a4-419d-a5bf-48826e676952)
 
 
 
